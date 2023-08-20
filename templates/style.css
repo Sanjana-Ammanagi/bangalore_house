@@ -1,0 +1,11 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("floor-1256804_1280.jpg"); /* Replace with your image's path */
+    background-size: cover; /* Adjust the background size as needed */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    background-attachment: fixed; /* Keeps the background image fixed while scrolling */
+}
+
